@@ -45,4 +45,4 @@ rightAngle = () => {
   startTravel();
 };
 
-// startTravel();
+startTravel();
